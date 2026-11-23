@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1795328973 source:c:\users\reda\documents\cpp\first program in tahlel numbers\main.cpp
+	<iostream>
+	<cmath>
+	<math.h>
+
